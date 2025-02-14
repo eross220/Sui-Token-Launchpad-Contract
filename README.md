@@ -1,4 +1,4 @@
-#sui-contracts
+## SUI Token Launchpad Smart Contract
 
 These are most important functions:
 - Token fund raising
